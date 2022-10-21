@@ -1,0 +1,17 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Vaadin Addressbook example,com.mydemo.tutorial.addressbook.backend,ContactService,374,0,16,0,51,0,15,0,7,0
+Vaadin Addressbook example,com.mydemo.tutorial.addressbook.backend,ContactService.new Comparator() {...},15,0,0,0,2,0,2,0,2,0
+Vaadin Addressbook example,com.mydemo.tutorial.addressbook.backend,Contact,102,0,0,0,29,0,15,0,15,0
+Vaadin Addressbook example,com.mydemo.helper,GenericResourceBundle,29,0,4,0,9,0,4,0,2,0
+Vaadin Addressbook example,com.mydemo.tutorial.addressbook,AddressbookUI,216,0,0,0,42,0,9,0,9,0
+Vaadin Addressbook example,com.mydemo.tutorial.addressbook,ContactForm,195,0,4,0,40,0,9,0,7,0
+Vaadin Addressbook example,com.mydemo.tutorial.addressbook,AddressbookUI.MyUIServlet,3,0,0,0,1,0,1,0,1,0
+Vaadin Addressbook example,com.mydemo.utilities,HexAsciiConvertor,6,71,0,8,4,19,0,7,0,3
+Vaadin Addressbook example,com.mydemo.utilities,LoggerStackTraceUtil,43,67,7,3,10,12,6,3,1,3
+Vaadin Addressbook example,com.mydemo.utilities,PrepareTargetMethod,23,0,0,0,4,0,2,0,2,0
+Vaadin Addressbook example,com.mydemo.utilities,StringUtilities,280,0,38,0,56,0,25,0,6,0
+Vaadin Addressbook example,com.mydemo.utilities,CaseInsensitiveComparator,128,87,14,6,24,24,12,4,2,4
+Vaadin Addressbook example,com.mydemo.utilities,PropertyHelper,68,0,4,0,25,0,8,0,6,0
+Vaadin Addressbook example,com.mydemo.utilities,GenericComparator.CompareMode,0,44,0,0,0,1,0,1,0,1
+Vaadin Addressbook example,com.mydemo.utilities,PropertyLoader,100,0,18,0,29,0,13,0,4,0
+Vaadin Addressbook example,com.mydemo.utilities,GenericComparator,159,179,34,18,36,41,26,13,3,9

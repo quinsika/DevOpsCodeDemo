@@ -1,0 +1,17 @@
+com/mydemo/utilities/PropertyLoader.class
+com/mydemo/tutorial/addressbook/backend/ContactService.class
+com/mydemo/utilities/CaseInsensitiveComparator.class
+com/mydemo/utilities/GenericComparator$1.class
+com/mydemo/utilities/LoggerStackTraceUtil.class
+com/mydemo/utilities/PrepareTargetMethod.class
+com/mydemo/utilities/GenericComparator.class
+com/mydemo/tutorial/addressbook/backend/ContactService$1.class
+com/mydemo/utilities/StringUtilities.class
+com/mydemo/tutorial/addressbook/AddressbookUI$MyUIServlet.class
+com/mydemo/utilities/PropertyHelper.class
+com/mydemo/tutorial/addressbook/AddressbookUI.class
+com/mydemo/tutorial/addressbook/backend/Contact.class
+com/mydemo/tutorial/addressbook/ContactForm.class
+com/mydemo/utilities/GenericComparator$CompareMode.class
+com/mydemo/utilities/HexAsciiConvertor.class
+com/mydemo/helper/GenericResourceBundle.class
